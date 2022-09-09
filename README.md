@@ -1,5 +1,7 @@
 # potato
-A one page RPG by Oliver Darkshire
+A one page RPG by Oliver Darkshire  
+  
+Source: https://twitter.com/deathbybadger/status/1567425842526945280
 
 ## Instructions
 Copy file to local system with executable permissions  

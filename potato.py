@@ -3,6 +3,8 @@ intro = """
 POTATO
    A one page RPG by Oliver Darkshire
 
+Source: https://twitter.com/deathbybadger/status/1567425842526945280
+
 You are a halfling, just trying to exist.
 Meanwhile, the dark lord rampages across the world.
 
