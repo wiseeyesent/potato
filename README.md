@@ -23,4 +23,4 @@ Python 3
 
 ## LICENSE
 
-(k) 2022 joshua@wiseeyesent.com (Koplyleft)[./LICENSE.txt] 
+[(k)](./LICENSE.txt) 2022 joshua_wiseeyesent.com [Koplyleft](./LICENSE.txt)
